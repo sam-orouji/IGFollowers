@@ -1,6 +1,6 @@
-download instagram data here: https://help.instagram.com/181231772500920
+Don't trust third party apps with your log in, that's how you lose your account. By downloading your instagram info and using this script you avoid that.
 
-Download a copy of your information in your Instagram Settings:
+Download a copy of your information in your Instagram Settings: https://help.instagram.com/181231772500920
 
 1. Click the three lines in the bottom left, then click Your Activity.
 2. Click Download your information.
